@@ -1,0 +1,71 @@
+True | True
+True | false
+false | True
+True | false
+false | True
+True | false
+True | false
+True | True
+
+True | True
+True | false
+false | True
+false | false
+false | false
+false | false
+True | false
+True | True
+
+True | True
+True | false
+false | True
+True | false
+false | True
+True | false
+True | false
+True | True
+
+True | True
+True | false
+false | True
+True | false
+false | True
+false | false
+True | false
+True | True
+
+True | True
+True | false
+false | True
+True | false
+false | True
+True | false
+True | false 
+True | True
+
+True | True
+True | false
+false | half_true
+half_true | false
+false | half_true
+half_true | false
+True | false
+True | True
+
+True | True
+True | false
+false | True
+True | false
+false | True
+True | false
+True | false
+True | True
+
+True | True
+True | false
+half_true | True
+false | half_true
+half_true | True
+false | half_true
+True | false
+True | True
